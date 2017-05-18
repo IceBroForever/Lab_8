@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/icebro/Projects/progbase2/labs/lab8/build",
+  "command": "/usr/bin/c++    -I/home/icebro/Projects/progbase2/labs/lab8/include  -std=c++11 -Werror -Wall -g   -std=gnu++11 -o CMakeFiles/server.dir/server.cpp.o -c /home/icebro/Projects/progbase2/labs/lab8/server.cpp",
+  "file": "/home/icebro/Projects/progbase2/labs/lab8/server.cpp"
+},
+{
+  "directory": "/home/icebro/Projects/progbase2/labs/lab8/build",
+  "command": "/usr/bin/c++    -I/home/icebro/Projects/progbase2/labs/lab8/include  -std=c++11 -Werror -Wall -g   -std=gnu++11 -o CMakeFiles/server.dir/src/actor.cpp.o -c /home/icebro/Projects/progbase2/labs/lab8/src/actor.cpp",
+  "file": "/home/icebro/Projects/progbase2/labs/lab8/src/actor.cpp"
+},
+{
+  "directory": "/home/icebro/Projects/progbase2/labs/lab8/build",
+  "command": "/usr/bin/c++    -I/home/icebro/Projects/progbase2/labs/lab8/include  -std=c++11 -Werror -Wall -g   -std=gnu++11 -o CMakeFiles/server.dir/src/actorsLoader.cpp.o -c /home/icebro/Projects/progbase2/labs/lab8/src/actorsLoader.cpp",
+  "file": "/home/icebro/Projects/progbase2/labs/lab8/src/actorsLoader.cpp"
+},
+{
+  "directory": "/home/icebro/Projects/progbase2/labs/lab8/build",
+  "command": "/usr/bin/c++    -I/home/icebro/Projects/progbase2/labs/lab8/include  -std=c++11 -Werror -Wall -g   -std=gnu++11 -o CMakeFiles/server.dir/src/server.cpp.o -c /home/icebro/Projects/progbase2/labs/lab8/src/server.cpp",
+  "file": "/home/icebro/Projects/progbase2/labs/lab8/src/server.cpp"
+}
+]

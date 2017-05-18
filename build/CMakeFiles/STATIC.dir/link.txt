@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSTATIC.a  CMakeFiles/STATIC.dir/src/actor.cpp.o CMakeFiles/STATIC.dir/src/actorsLoader.cpp.o
+/usr/bin/ranlib libSTATIC.a

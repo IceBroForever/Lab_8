@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"system_error": "cpp",
+		"list": "cpp",
+		"iosfwd": "cpp",
+		"initializer_list": "cpp",
+		"utility": "cpp",
+		"limits": "cpp"
+	}
+}

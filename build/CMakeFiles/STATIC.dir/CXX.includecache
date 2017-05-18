@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/icebro/Projects/progbase2/labs/lab8/include/actor.h
+string
+-
+
+/home/icebro/Projects/progbase2/labs/lab8/include/actorsLoader.h
+progbase-cpp/net.h
+-
+actor.h
+/home/icebro/Projects/progbase2/labs/lab8/include/actor.h
+list
+-
+
+/home/icebro/Projects/progbase2/labs/lab8/src/actor.cpp
+
+/home/icebro/Projects/progbase2/labs/lab8/src/actorsLoader.cpp
+../include/actorsLoader.h
+/home/icebro/Projects/progbase2/labs/lab8/include/actorsLoader.h
+
